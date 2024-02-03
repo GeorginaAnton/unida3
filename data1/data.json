@@ -1,0 +1,336 @@
+
+{"productos":[
+    {
+        "nombre":"CeraVe",
+        "img":"",
+        "info":"",
+        "limpiadores faciales":[
+            {
+             "nombre":"Gel Limpiador Espumoso",
+             "img":"",
+             "info":"El limpiador facial espumoso de CeraVe contiene ceramidas, ácido hialurónico y niacinamida para ayudar a restaurar la barrera natural de la piel, atraer la hidratación y calmar la piel.",
+             "para piel":"normal a grasa"
+             },
+            {
+             "nombre":"Limpiador Hidratante",
+             "img":"",
+             "info":"El limpiador facial hidratante de CeraVe puede eliminar la suciedad, el maquillaje y otros residuos sin alterar la barrera natural de la piel ni despojarla de su humedad natural, es un suave limpiador con ceramidas y el ácido hialurónico que restauran la barrera natural de la piel para ayudarla a retener la humedad y suministrar un flujo constante de nutrientes.No comedogénico, no irritante y sin perfume.",
+             "para piel":"normal a seca"
+             },
+            {
+             "nombre":"Limpiadora Crema-espuma Hidratante",
+             "img":"",
+             "info":"El limpiador facial hidratante de crema a espuma de CeraVe comienza como una crema antes de transformarse en una suave espuma lo que proporciona una sensación refrescante a la piel, y elimina eficazmente la suciedad y maquillaje de la piel sin dejarla tirante y seca. Esta fórmula suave y sin perfume contienes tres ceramidas esenciales, aminoácidos y ácido hialurónico, que trabajan juntos para mantener la barrera natural de la piel y retener la humedad.",
+             "para piel":"normal a seca"
+             },
+            {
+             "nombre":"Limpiador en Aceite Espumoso Hidratante",
+             "img":"",
+             "info":"Un limpiador suave a base de ácido salicílico puede ayudar a exfoliar y suavizar la piel áspera, a la vez elimina eficazmente la grasa y suciedad, barre las celulas muertas, sin dejar una sensacion de resequedad, ya que contiene tres ceramidas esenciales,acido hialurinico y niacinamida, ayuda a suavizar y alisar la piel, esta formula ni tiene perfume, no es comedogénica, esta enriquecida con vitamina D antioxidante y es adecuado para su uso en cara y cuerpo.",
+             "para piel":"normal a muy seca"
+             }
+           ],
+         "hidratantes faciales":[
+            {
+                "nombre":"Loción Hidratante de Rostro con FPS",
+                "img":"",
+                "info":"El hidratante facial dia de Cerave es una solucion multitarea para el cuidado de la piel por la mañana, ya que contiene ceramidas, ácido hialurónico hidratante, niacinamida calmante, FPS 30 que brinda protección de los dañinos rayos UVA y UVB que se extienden fácil y uniformemente sobre la piel y una fórmula no comedogénica que no obstruye los poros ni provoca brotes de acné, es ideal para todo tipo de piel.",
+                "para piel":"todo tipo de piel"
+            },
+            {
+                "nombre":"Loción Hidratante de Rostro",
+                "img":"",
+                "info":"La locion hidratante de CeraVe proporciona un flujo constante de hidratación ya que esta formulada con ácido hialurónico, ceramidas y niacinamida en una fórmula libre de aceites y no comedogénica, que puede calmar la piel mientras restaura la barrera natural de la piel, una crema rica pero ligera.Adecuada para todo tipo de piel ya que no obstruye los poros ni provoca brotes de acné.",
+                "para piel":"todo tipo de piel"
+            },
+            {
+                "nombre":"Crema Hidratante",
+                "img":"",
+                "info":"Una crema hidratante con ácido hialurónico y ceramidas puede ayudar a quienes tienen la piel seca o muy seca mejorando el aspecto y la sensación de su piel. Esta crema esta desarrollada por dermatologos adecuada para la piel del rostro y cuerpo, una crema no grasa y de rapida absorción con un flujo constante de ingredientes hidratantes durante todo el día y la noche. No contiene perfume.",
+                "para piel":"seca a muy seca"
+            },
+            {
+                "nombre":"Crema Reparadora para el Contorno de Ojos",
+                "img":"",
+                "info":"Es una crema reparadora para contorno de ojos que ayuda a suavizar e iluminar esta delicada piel para que luzca lo mejor posible tratando la hinchazón y las ojeras que son algunas de las preocupaciones más comunes. Reconocida como segura para su uso alredeor del area de los ojos por oftalmólogos. Adecuada para todo tipo de piel, es una crema no grasa, de rápida absorción y sin perfume, también contiene ceramidas,ácido hialurónico y niacinamida, ademas que libera ingredientes de manera rolongada para una hidratacion continua.",
+                "para piel":"todo tipo de piel"
+            }
+           ],
+           "hidratantes corporales":[
+            {
+                "nombre":"CREMA HIDRATANTE",
+                "img":"",
+                "info":"Es una crema que consta de ingredientes hidratantes como el ÁCIDO HIALURÓNICO y CERAMIDAS que ayuda a quienes tienen la piel seca o muy seca mejorando el aspecto y la sensación de su piel. Esta crema esta desarrollada por dermatólogos adecuada para la piel del rostro y cuerpo, es crema no grasa, rápida absorción. Hidrata durante todo el día y la noche. No contiene perfume.",
+                "para piel":"seca a muy seca"   
+            },
+            {
+                "nombre":"SA CREMA ALISADORA ANTI-RUGOSIDADES",
+                "img":"",
+                "info":"La SA CREMA ALISADORA ANTI-RUGOSIDADES de CeraVe suavizar, alisar e hidratar de forma eficaz la piel seca, irregular y rugosa gracias al ÁCIDO SALICÍLICO que ayuda a eliminar las células muertas de la piel para exfoliar suavemente, 10% de UREA que atrae, retiene la humedad y suaviza la piel, las tres ceramidas que ayudan a reparar y mantener la barrera de la piel, al ÁCIDO HIALURÓNICO que ayuda a retener la humeda y a la NIACINAMIDA que actua como calmante para la piel . Ademas, esta crema para piel rugosa esta compuesta por una fórmula hipoalergénica y sin perfume que no compromete la tolerancia del producto. ",
+                "para piel":"seca"
+            },
+            {
+                "nombre":"CREMA REPARADORA DE MANOS",
+                "img":"",
+                "info":"La exposición a agentes irritantes, el lavado frecuente de manos y las actividades cotidianas causan daños a nuestras manos, por eso la Crema terapéutica para manos de CeraVe, puede proteger temporalmente su piel y aliviar la sequedad  ya que contiene ingredientes como la dimeticona, un protector de la piel, el ácido hialurónico, la niacinamida y las ceramidas que ayudan a que la fórmula hidrate, calme y restaure la piel, generando unas manos suves, agradables al tacto y confortables. su fórmula es no grasa de rápida absorción y sin perfume.",
+                "para piel":"todo tipo de piel"
+            }
+        ]
+        },
+        {
+            "nombre":"EUCERIN",
+            "img":"",
+            "info":"",
+            "limpiadores faciales":[
+                {
+                    "nombre":"DermatoCLEAN [HYALURON] Gel Limpiador Facial",
+                    "img":"",
+                    "info":"Un gel limpiador suave pero eficaz que retira el maquillaje y las impurezas, permitiendo que la piel respire mejor.Se ha probado en la piel sensible demostrando su compatibilidad. Contiene una combinación innovadora de ingredientes activos, el COMPLEJO APG un complejo limpiador extrasuave pero efectivo, GLUCOGLICEROL un ingrediente activo hidratante de origen natural, ÁCIDO HIALURÓNICO ayuda a conservar la hidratación y mantener el balance natural de la piel.",
+                    "para piel":"todo tipo de piel"
+                },
+                {
+                    "nombre":"DermatoCLEAN [HYALURON] Loción Micelar Limpiadora 3 en 1",
+                    "img":"",
+                    "info":"Un limpiador micelar suave pero eficaz que elimina las impurezas y el maquillaje resistente al agua. Enriquecido con ingredientes hidratantes que limpian sin resecar la piel.limpiador de agua micelar combina un complejo de limpieza extra suave con ácido hialurónico y otros ingredientes hidratantes derivados de la naturaleza para ayudar a la piel a mantener su equilibrio natural de humedad. Deja la piel con una sensación de limpieza, frescura y suavidad. una solución de limpieza rápida y conveniente que es adecuada para todo tipo de pieles, está clínica y dermatológicamente comprobada como adecuada para pieles sensibles.",
+                    "para piel":"todo tipo de piel"
+                },
+                {
+                    "nombre":"DermoPure Gel Limpiador Facial",
+                    "img":"",
+                    "info":"Un gel limpiador no comedogénico , sin jabón ni fragancias, para piel grasa propensa al acné e imperfecciones. Con 6% de ANFO-TENSORES y ÁCIDO SALICÍLICO que es suave y efectivo para remover el exceso de grasa mientras remueve la suciedad y maquillaje. Deja a la piel una sensación de limpieza, frescura y suavidad.",
+                    "para piel":"normal a grasa"
+                }
+            ],
+            "hidratantes faciales":[
+                {
+                    "nombre":"DermoPure Fluido Facial Matificante",
+                    "img":"",
+                    "info":"Eucerin DermoPURE perfecto para piel grasa propensa a impurezas gracias a su efecto antibrillo de 8h. Ayuda a reducir las imperfecciones, matifica e hidrata la piel.  El Fluido Facial matificante contiene ÁCIDO SALICÍLICO ayuda a reducir las imperfecciones y evitar que vuelvan a aparecer, LICOCHALCONA A calma la irritación y reduce el enrojecimiento, tecnología de regulación del sebo reduce la producción de sebo y partículas que se materializan proporcionan un efecto anti-brillo de 8h sin obstruir los poros. La piel es notablemente más clara y el efecto mate de larga duración mejora la tez",
+                    "para piel":"grasa"
+                },
+                {
+                    "nombre":"Hyaluron-Filler + 3x Effect Hydrating+Repair Ultra-Light Gel",
+                    "img":"",
+                    "info":"Hidrata la piel intensamente durante el día y la noche dando una sensación de frescura y piel radiante cada día.La nueva fórmula combina el ÁCIDO HUALURÓNICO de alto peso molecular que fija la humedad en la superficie de la piel, y el ÁCIDO HIALURÓNICO de bajo peso molecular que ayuda profundamente en la piel donde se originan las arrugas. En combinación con la GLICERINA, la fórmula aumenta la humedad significativamente. PROVITAMINA B5 repara activamente y fortalece la piel durante el día y la noche, mientras que la VITAMINA E protege la piel del estrés oxidativo.",
+                    "para piel":"normal a seca"
+                },
+                {
+                    "nombre":"Anti-Pigment Crema Facial de Día FPS30",
+                    "img":"",
+                    "info":"Eucerin Anti-Pigment Crema de día FPS 30 contiene THIAMIDOL, está clínicamente y dermatológicamente comprobado para reducir las manchas oscuras y prevenir su reaparición al reducir la producción de melanina, causa principal de la hiperpigmentación. Con los filtros UVA y UVB (FPS 30), la crema hidratante de día ofrece una protección eficaz contra el sol y reduce las posibilidades de que la piel desarrolle manchas de pigmento inducidas por el sol. La piel luce uniforme y radiante.",
+                    "para piel":"todo tipo de piel"
+                },
+                {
+                    "nombre":"Aquaphor Ungüento Reparador",
+                    "img":"",
+                    "info":"Esta crema libre de agua genera el ambiente ideal para dar apoyo al proceso de cicatrización de la piel irritada o dañada. El PANTENOL penetra en la piel y la acondiciona ayudando a los procesos importantes que hidratan y regeneran la piel. Al mismo tiempo, el BISABOLOL alivia la piel dañada y la inclusión de GLICERINA humecta la piel y refuerza la función de barrera natural",
+                    "para piel":"seca a muy seca"
+                },
+                {
+                    "nombre":"Aquaphor Reparador de Labios S.O.S",
+                    "img":"",
+                    "info":"Repara, protege y calma los labios secos y agrietados. Crea una barrera protectora ideal para favorecer una rápida reparación de la piel de los labios. Contiene PANTENOL que mejora la hidratación, VITAMINAS C Y E  que nutre la piel de los labios y la GLICERINA, que ayuda a atraer el agua para ser captada en la piel. Esto hace que sea una crema hidratante muy eficaz, ya que tanto suaviza la piel seca y le da protección para un cuidado de larga duración.",
+                    "para piel":"seca"
+                }
+            ],
+            "limpiadores corporales":[
+                {
+                    "nombre":"pH5 Aceite de Ducha",
+                    "img":"",
+                    "info":"Un agente limpiador diario de rica composición que preserva las defensas naturales de la piel y la protege frente a la deshidratación. La composición de Eucerin pH5 Oleogel de Ducha han demostrado su elevada compatibilidad con la piel y por lo tanto son adecuados para realizar la higiene de la piel sensible y propensa a irritarse. Contiene 53% de aceites naturales para un efecto nutritivo intenso, DEXPANTENOL para mejorar la hidratación natural de la piel y sistema de equilibrio pH5 para mejorar la barrera natural de la piel.",
+                    "para piel":"sensible"
+                },
+                {
+                    "nombre":"pH5 Syndet Gel",
+                    "img":"",
+                    "info":"tratar las necesidades específicas de la piel sensible. Se ha demostrado que pH5 Enzyme Protection es la única fórmula que mantiene el manto ácido de la piel, mejorando sus defensas naturales desde el interior. Mantiene la función protectora propia de la piel durante la limpieza Percibirás la piel suave y protegida frente a la resequedad a pesar de lavados frecuentes. Es libre del jabón alcalino y ligeramente perfumado. Contiene PANTENOL y GLICERINA",
+                    "para piel":"seca y sensible"
+                }
+            ],
+            "hidratantes corporales":[
+                {
+                    "nombre":"pH5 Loción Hidratante",
+                    "img":"",
+                    "info":" Loción corporal para las necesidades especiales de la piel sensible que brinda humectación por 24 horas. Proporciona hidratación de larga duración.Restaura las defensas naturales de la piel. contienen la combinación activa de buffer citrato pH5 , DEXPANTENOL y GLICERINA gracias al DEXPANTENOL la fórmula tiene propiedades sanadoras de heridas. Usar a diario para una protección duradera y una piel tersa y suave",
+                    "para piel":"sensible"
+                },
+                {
+                    "nombre":"pH5 Gel Crema Corporal Hidratante",
+                    "img":"",
+                    "info":"Una crema corporal de textura ultra ligera, que protege y reconforta la piel sensible sin dejar residuos. Reconfortante en piel sensible. Hidrata la piel, dejándola suave, con una aparencia tersa y protegida.No comedogénico. Enriquecida con DEXPANTENOL y GLICERINA, fórmula no pegajosa que provee una hidratación natural, ayuda a calmar la superficie de la piel sensible y brinda confort inmediato",
+                    "para piel":"normal a seca"
+                },
+                {
+                    "nombre":"UreaRepair PLUS Loción Corporal 10% Urea",
+                    "img":"",
+                    "info":"Esta loción corporal rica pero de rápida absorción trabaja de tres maneras para humectar profundamente y calmar la piel cortada, escamada, con picazón y extremadamente seca. La combinación de los ingredientes como la UREA, el LACTATO, la GLICERINA y CERAMIDAS en un solo producto permite que las causas múltiples de la piel seca sean abordadas simultáneamente; la pérdida de humectación se minimiza, la distribución de humectación se maximiza y la barrera de la piel se refuerza. Estos procesos trabajan para convertir la piel seca, tirante y escamosa en una piel tersa, suave y saludable.",
+                    "para piel":"seca a muy seca"
+                }
+            ],
+            "bloqueadores":[
+                {
+                    "nombre":"Sun Face Photoaging Control FPS50+",
+                    "img":"",
+                    "info":"Alto valor diario de protección solar anti envejecimiento para todo tipo de piel, incluyendo piel sensible. Protege la piel del rostro de las quemaduras solares y del daño cutáneo inducido por el sol. Ligero y de textura placentera.  la fórmula ofrece una amplia banda de protección UVA y UVB, Protección Celular Biológica y ÁCIDO HIALURÓNICO que al retener la humedad reduce las arrugas. La Protección Celular Biológica viene de la combinación del antioxidante ÁCIDO GLICIRRETÍNICO, el cual aporta a la protección y mecanismo de reparación del mismo ADN de la piel, y la LICOCHALCONA A, un poderoso antioxidante que protege las células de la piel de los daños provocados por radicales libres.",
+                    "para piel":"todo tipo de piel"
+                },
+                {
+                    "nombre":"Sun Face Oil Control Tono Medio FPS50+",
+                    "img":"",
+                    "info":"Sun Face Oil Control FPS50+ Tono Medio es un protector solar facial con color para pieles grasas y con tendencia al acné. La Tecnología Espectral Avanzada combina filtros UVA y UVB de banda ancha y fotoestables para una protección UV muy alta con la Licochalcona A para neutralizar los radicales libres causados por los rayos UV y la luz HEVIS, y el Ácido Glicirretínico que favorece el mecanismo de reparación del ADN propio de la piel Y combina micropartículas absorbentes y L-Carnitina, reduciendo la cantidad de sebo en la piel. Las micropartículas absorbentes de lípidos absorben el exceso de grasa restante, por lo que la piel aparece seca y mate. ",
+                    "para piel":"grasa"
+                },
+                {
+                    "nombre":"Sun Face Hydro-Fluid FPS 50+",
+                    "img":"",
+                    "info":"Eucerin Sun Face Hydro-Fluid FPS 50+ es un Protector Solar de uso diario con complejo hidro-tecnológico, para una sensación de hidratación inmediata y frescura en la piel que protege contra los daños inducidos por el sol, con Licochalcona A para neutralizar los radicales libres causados por la luz UV y HEVIS, también incluye Ácido Glicirretínico, que favorece el mecanismo de reparación propio de la piel. Con fragancia, y con una fórmula ultra ligera, no deja sensación grasa y de rápida absorción sin deja residuos después de su uso, Eucerin Sun Face Hydro-Fluid FPS 50+ ha demostrado clínica y dermatológicamente que es muy bien tolerado por todos los tipos de piel, incluida la piel sensible. ",
+                    "para piel":"todo tipo de piel"
+                },
+                {
+                    "nombre":"Sun Kids Sensitive Protect Spray Trigger FPS50+",
+                    "img":"",
+                    "info":" es un protector solar para niños especialmente formulado para calmar la piel sensible y protegerla de las quemaduras solares y de los daños inducidos por el sol a largo plazo. También es adecuado para pieles con tendencia atópicas. una protección UV muy alta con Licochalcona A para neutralizar los radicales libres causados por la luz UV y HEVIS. también incluye Ácido Glicirretínico, que favorece el mecanismo de reparación del ADN propio de la piel. Sin perfume y extra resistente al agua.",
+                    "para piel":"sensible"
+                }
+            ]
+        },
+        {
+            "nombre":"La Roche Posay",
+            "img":"",
+            "info":"",
+            "limpiadores faciales":[
+                {
+                    "nombre":"Effaclar Gel Microexfoliante",
+                    "img":"",
+                    "info":"Reduce la visibilidad de los puntos negros y controla el brillo eliminando el exceso de sebo, destapa los poros en profundidad y ayuda a reducir de forma progresiva y duradera las imperfecciones persistentes, incluidas las marcas, favorece la eliminación de células muertas sin irritación. Su fórmula contiene ÁCIDO SALICÍLICO que destapa los poros, LHA que micro-exfolia suavemente y refina los poros y ZINC que purifica la piel",
+                    "para piel":"grasa"
+                },
+                {
+                    "nombre":"AGUA MICELAR PIEL SENSIBLE",
+                    "img":"",
+                    "info":"Limpiador, desmaquillante, calmante para pieles sensibles. Contiene MICELAS Elimina suavemente el maquillaje, las impurezas y la contaminación sin alterar la barrera cutánea, GLICERINA, Hidratante y anti-tirantez y AGUA TERMAL Calma y limpia la piel de impurezas.",
+                    "para piel":"sensible"
+                },
+                {
+                    "nombre":"EFFACLAR LOCIÓN ASTRINGENTE",
+                    "img":"",
+                    "info":"Contribuye a desobstruir los poros y reducir su tamaño. Fórmula enriquecida con ingredientes activos seborreguladores y LHA que contribuye a reducir inmediatamente el tamaño de los poros y a desobstruirlos. ÁCIDO SALICÍLICO Micro-exfolia sin irritar, GLICERINA Una molécula hidratante de referencia que hidrata a la vez que limpia, AGUA TERMAL Efecto calmante y antioxidante.",
+                    "para piel":"grasa"
+                }
+            ],
+            "hidratantes faciales":[
+                {
+                    "nombre":"EFFACLAR K (+)",
+                    "img":"",
+                    "info":"EFFACLAR K (+) es el 1º cuidado renovador de La Roche-Posay para piel grasa que previene la oxidación de los puntos negros recurrentes con propiedades anti-oxidación y anti-sebo durante 8 horas. La piel se alisa desde la primera aplicación, La piel se matifica, las imperfecciones se difuminan. VITAMINA E + CARNOSINA Antioxidante para prevenir la oxidación en pieles grasas, AIRLICIUM™ Una nueva molécula que absorbe una gran cantidad de sebo.",
+                    "para piel":"grasa"
+                },
+                {
+                    "nombre":"LIPIKAR LECHE HIDRATANTE",
+                    "img":"",
+                    "info":"48 horas de hidratación y anti-sequedad para pieles sensibles y secas, con perfume, refuerza la barrera cutánea y restablce el confort y la flexibilidad. CREMA FRÍA Un ingrediente clave que repara y retiene la hidratación, NIACINAMIDA Un ingrediente activo calmante que ayuda a aliviar la sensación de picor y restaura la barrera lipídica de la piel, MANTECA DE KARITÉ  es conocida por su capacidad para restaurar la piel",
+                    "para piel":"seca y sensible"
+                },
+                {
+                    "nombre":"CICAPLAST LABIOS",
+                    "img":"",
+                    "info":"Este bálsamo reparador calma, reconstruye y fortalece la epidermis de labios y zonas resecas, agrietadas e irritadas.Su formula contiene PANTENOL que ayuda a mejorar la hidratación de la piel aliviando la irritación y las sensaciones de malestar, y LÍPIDOS MP Ayuda a reconstruir la función de barrera de la piel. Su eficacia es inmediata: alivia desde la primera aplicación",
+                    "para piel":"seca"
+                },
+                {
+                    "nombre":"",
+                    "img":"",
+                    "info":"",
+                    "para piel":""
+                }
+            ],
+            "limpiadores corporales":[
+                {
+                    "nombre":"LIPIKAR GEL LAVANT",
+                    "img":"",
+                    "info":"Es un gel espumoso suave, delicado y suavemente perfumado. Brindando una limpieza suave, aliviando, protegiendo y nutriendo la piel desde la ducha, ya que contiene niacinamida un activo que ayuda a calmar la picazón y manteca de karité que es otro ingrediente clave reconocido por su capacidad para restaurar la barrera de la piel",
+                    "para piel":"seca"
+                },
+                {
+                    "nombre":"EFFACLAR GEL PURIFICANTE MICRO-EXFOLIANTE",
+                    "img":"",
+                    "info":"Limpiador para rostro y cuerpo. Ayuda a reducir de manera progresiva y duradera las imperfecciones persistentes, incluidas las marcas, y previene su reaparición. Favorece la eliminación de las células muertas sin irritar. ÁCIDO SALICÍLICO Desobstruye los poros en profundidad y elimina las imperfecciones graves, LHA Microexfolia suavemente y reduce el tamaño de los poros, ZINC Purifica la piel en profundidad y reduce el sebo.",
+                    "para piel":"grasa"
+                }
+            ],
+            "hidratantes corporales":[
+                {
+                    "nombre":"LIPIKAR FLUIDO",
+                    "img":"",
+                    "info":"Leche corporal hidratante calmante. Disminuye el aspecto granular de la piel y alisa las asperezas cutáneas del cuerpo, refuerza la barrera cutánea y calma las molestias de la piel hidrata tu piel, además de alisarla ya que esta formuLada con 5% UREA + FACTOR EXFOLIANTE  el activo suavizante combinado con un factor exfoliante potencia la eficacia y la ALATOÍNA es un activo calmante que ayuda a reducir la irritación debida a la sequedad de la piel.",
+                    "para piel":"seca"
+                },
+                {
+                    "nombre":"LIPIKAR LAIT UREA 10%",
+                    "img":"",
+                    "info":" Mejora visiblemente el aspecto de la piel seca mientras contribuye a eliminar las zonas ásperas y con descamación. UREA 10%: Efecto queratolítico natural para mejorar la renovación celular de la piel - suaviza la piel -, preserva la hidratación cutánea, HEPES Exfolia la piel y reduce la inflamación, MANTECA DE KARITÉ Hidrata la piel en profundidad mientras retiene el agua.",
+                    "para piel":"seca a muy seca"
+                },
+                {
+                    "nombre":"CICAPLAST MANOS",
+                    "img":"",
+                    "info":"Esta crema reparadora de manos calma, protege y restaura la barrera cutánea de las manos fatigadas tiene una textura ultra cómoda. Reduce rojeces y la resequedad dejando las manos nutridas, reparadas y flexibles. Contiene GLICERINA ayuda a crear una película protectora sobre la piel manteniendo sus niveles de hidratación y NIACINAMIDA que calma y repara la barrera protectora de la piel ",
+                    "para piel":"seca"
+                }
+            ],
+            "bloqueadores":[
+                {
+                    "nombre":"ANTHELIOS UVMUNE 400 FLUIDO INVISIBLE SPF50+",
+                    "img":"",
+                    "info":"Fórmula ligera, cómoda para el uso diario y pieles sensibles. Protección de amplio espectro que ayuda a prevenir daños causados por los rayos UVA, UVB, infrarojos y la polución. Ultra resistente al agua, sudor y arena. Formulado para limitar el picor en los ojos. Textura ligera y no pegajosa.",
+                    "para piel":"sensible"
+                },
+                {
+                    "nombre":"ANTHELIOS BRUMA INVISIBLE ANTI-BRILLOS SPF50 ROSTRO",
+                    "img":"",
+                    "info":"Fórmula ligera que proporciona control de brillos. Protege la piel de los rayos UVA y UVB y ayuda a prevenir los daños causados por los infrarrojos A y la contaminación. Resistente al agua, de rápida absorción y acabado mate",
+                    "para piel":"grasa"
+                },
+                {
+                    "nombre":"INNOVACIÓN ANTHELIOS MINERAL ONE SPF50+",
+                    "img":"",
+                    "info":"Protección mineral diaria para pieles sensibles. Cobertura natural, hidrata tu piel durante 24 horas. Protege la piel de la fotocontaminación.",
+                    "para piel":"sensible"
+                }
+            ],
+            "serums":[
+                {
+                    "nombre":"PURE VITAMIN C10 SÉRUM",
+                    "img":"",
+                    "info":"Mejora la luminosidad y la textura de la piel.Ayuda a mejorar la uniformidad del tono de la piel.Ayuda a reducir las arrugas de la piel. AGUA TERMAL Trata las irritaciones cutáneas. Calma la piel en profundidad, ÁCIDO SALICÍLICO Exfolia las células de la superficie. Facilita la eliminación de las células muertas. La piel está más suave, 10% VITAMINA C PURA  Reduce las arrugas y las líneas de expresión. Mejora el tono de la piel. Restaura la luminosidad de la piel",
+                    "para piel":"todo tipo de piel"
+                },
+                {
+                    "nombre":"HYALU B5 SÉRUM DE OJOS",
+                    "img":"",
+                    "info":"Rellena arrugas y corrige ojeras. Fórmula con ingredientes activos concentrados con la máxima eficacia y tolerancia garantizada. Testado oftalmológicamente. Apto para usuarios de lentillas. Sin perfume. Con [Ácido Hialurónico Alto peso molecular: hidrata la superficie de la piel. Crea una barrera protectora para reducir la pérdida de agua. Bajo peso molecular: penetra en la epidermis contribuyendo a la diferenciación de los queratinocitos. Acción antienvejecimiento + Vitamina B5 Pequeña molécula conocida por sus propiedades reparadoras y calmantes + 10% Complejo dermatológico intensivo para Ojeras que contiene: Cafeína (descongestionante), Vitamina B3 (anti-inflamatoria), Vitamina Cg (antioxidante), Hepes (Exfoliante suave)] y aplicador de masaje exclusivo de acero.",
+                    "para piel":"todo tipo de piel"
+                },
+                {
+                    "nombre":"HYALU B5 SÉRUM",
+                    "img":"",
+                    "info":"Mejora el proceso de reparación de la piel y ayuda a su renovación. Máxima eficacia antiarrugas sin comprometer la tolerancia incluso de las pieles más sensibles ÁCIDO HIALURÓNICO fragmentado y de alto peso molecular para rellenar la piel y tratar arrugas y falta de volumen de la piel, VITAMINA B5 También conocida como pantenol, calma y ayuda a regenerar la piel, MADECASSOSIDE extraído directamente de la planta Centella Asiatica, tiene propiedades calmantes para regenerar la piel. Ayuda a reparar la piel.",
+                    "para piel":"todo tipo de piel"
+                },
+                {
+                    "nombre":"RETINOL B3 SÉRUM",
+                    "img":"",
+                    "info":"Corrige arrugas profundas, líneas de expresión y unifica el tono. GLICERINA Activo hidratante. Ayuda a reparar y proteger la barrera de la piel, RETINOL Molécula dermatológica más utilizada para rejuvenecer la piel y corregir arrugas profundas. La combinación de retinol puro y gradual permite que se respete el umbral de tolerancia de la piel, VITAMINA B3 fortalecedor de la barrera cutánea. Alivio intenso, reducción de las rojeces.",
+                    "para piel":""
+                },
+                {
+                    "nombre":"EFFACLAR SERUM",
+                    "img":"",
+                    "info":"Anti-imperfecciones anti-marcas peeling diario. Una fórmula que purifica la piel, alisa la textura y reduce finas líneas. ÁCIDO GLICÓLICO Estimula la renovación celular y mejora el tono de la piel, con una alta eficacia en marcas, ÁCIDO SALICÍLICO Desobstruye los poros profundamente y previene la acumulación de sebo y LHA Micro-exfolia suavemente la piel y refina los poro.",
+                    "para piel":"grasa"
+                }
+            ]
+        }
+        
+]}
+

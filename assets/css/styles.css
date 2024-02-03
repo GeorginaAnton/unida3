@@ -1,0 +1,234 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.barra1{
+  background-color: blanchedalmond;
+  display: flex;
+}
+
+.ul1{
+  width: 100%;
+  list-style: none;
+  display: flex;
+  justify-content: baseline;
+  align-items: center;
+}
+
+.li1{
+  height: 80px;
+}
+
+.logo{
+  font-size: 28px;
+  height: 100%;
+  padding: 0 80px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  color: purple;
+}
+
+.p1{
+  font-size: 12px;
+  letter-spacing: 5px;
+  display: flex;
+  text-align: center;
+}
+
+section{
+  display: flex;
+  align-items: center;
+}
+
+form{
+  margin: auto;
+  display: flex;
+  
+}
+
+.cajaBuscar{
+  display: flex;
+  margin-left: 210px;
+  margin-top: 18px;
+  background-color: rgb(255, 249, 241);
+  padding: 8px 30px 8px 26px;
+  border-radius: 10px;
+  border: 2px solid rgb(255, 249, 241);
+}
+
+input{
+  border: none;
+  background: transparent;
+  padding-left: 24px;
+  width: 280px;
+  
+}
+
+input:focus{
+  outline: none;
+  
+}
+
+.buscar{
+  align-items: center;
+
+}
+
+.barra2 {
+  background-color: beige;
+  box-shadow: 3px 3px 5px gray;
+}
+
+.ul2{
+  width: 100%;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.li2{
+  height: 50px;;
+}
+
+.temas{
+  height: 100%;
+  padding: 0 30px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  color: rgba(0, 0, 0, 0.719);
+}
+
+nav .li2:hover{
+  background-color: #ffdee3;
+}
+
+.Productos{
+  position: absolute;
+  display: none;
+  list-style: none;
+  width: 200px;
+  background-color: antiquewhite;
+}
+
+.li2:hover .Productos{
+  display: block;
+}
+
+.Productos li:hover{
+  background-color: bisque;
+}
+
+.Productos li a{
+  display: block;
+  color: brown;
+  padding: 15px 15px 15px 20px;
+  text-decoration: none; 
+}
+
+.Marcas{
+  position: absolute;
+  display: none;
+  list-style: none;
+  width: 200px;
+  background-color: antiquewhite;
+}
+
+.ul2 li:hover .Marcas{
+  display: block;
+}
+
+.Marcas li:hover{
+  background-color: bisque;
+}
+
+.Marcas li a{
+  display: block;
+  color: brown;
+  padding: 15px 15px 15px 20px;
+  text-decoration: none;
+}
+
+.Portada{
+  text-align: left;
+  display: inline-block;
+}
+
+.Portada img{
+  width: 100%;
+  text-align: right;
+}
+
+.texto1{
+  position: absolute;
+  top: 50%;
+  left: 22%;
+  transform: translate(-50%, -50%);
+}
+
+.texto1 h2{
+  font-size: 80px;
+  padding-bottom: 6px;
+  font-family: 'Tangerine', cursive;
+  color: paleturquoise;
+}
+
+.texto1 p{
+  font-size: 22px;
+  padding-top: px;
+  padding-left: 4px;
+}
+
+.boton1{
+  position: absolute;
+  top: 68%;
+  left: 14%;
+  transform: translate(-50%, -50%);
+  padding: 15px 15px 15px 15px;
+  font-size: 18px;
+  border: none;
+  background-color: #ffc4cd;
+}
+
+.titulo1{
+  padding-top: 120px;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.nombre{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+.info{
+  text-align: justify;
+}
+
+.destacados{
+  align-items: stretch;
+  width: 250px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 20PX;
+}
+
+.destacados-img{
+  width: 100%;
+}
+
+.destacados-title{
+  align-self: end;
+  margin-left: auto;
+  margin-right: auto;
+}

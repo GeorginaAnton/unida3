@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Productos</title>
+    <link rel="stylesheet" href="../Productos/assets/css/style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <header>
+        <nav class="barra1">
+          <ul class="ul1">
+            <li class="li1"><a href="../index.html" class="logo">Logo</a></li>
+            <section>
+              <form autocomplete="off">
+                <div class="cajaBuscar">
+                  <div id="search-container">
+                    <label id ="search">
+                      <i class='bx bx-search'></i>
+                    </label>
+                    <input type="search" id="search-input" placeholder="Buscar producto aquí"/>
+                </div>
+              </form>
+            </section>
+          </ul>
+        
+        </nav>
+        <nav class="barra2">
+          <ul class="ul2">
+            <li class="li2">
+              <a href="../index.html" class="temas">Inicio</a>
+            </li>
+            <li class="li2">
+              <a href="productos.html" class="temas">Productos</a>
+              <ul class="Productos">
+                <li><a href="#">Bloqueadores</a></li>
+                <li><a href="#">Limpieza</a></li>
+                <li><a href="#">Hidratantes</a></li>
+                <li><a href="#">Serums</a></li>
+              </ul>
+            </li>
+            <li class="li2">
+              <a href="../Marcas/marcas.html" class="temas">Marcas</a>
+              <ul class="Marcas">
+                <li><a href="#">Avène</a></li>
+                <li><a href="#">Bioderma</a></li>
+                <li><a href="#">CeraVe</a></li>
+                <li><a href="#">Eucerin</a></li>
+                <li><a href="#">La Roche Posay</a></li>
+                <li><a href="#">Isdin</a></li>
+                <li><a href="#">Neutrogena</a></li>
+                <li><a href="#">Vicky</a></li>
+              </ul>
+            </li>
+            <li class="li2"><a href="../Sobre/nosotras.html" class="temas">Sobre Nosotras</a></li>
+            <li class="li2"><a href="../Contacto/contacto.html" class="temas">Contacto</a></li>
+          </ul>
+        </nav>
+    </header> 
+
+    <h1>Productos</h1>
+
+    <div id="productos"></div>
+    <div class="wrapper">
+      
+      <div id="buttons">
+          <button class="button-value" id="Todos" onclick="filterProduct('all')">Todos los artículos</button>
+        
+          <button class="button-value" id="Bloq" onclick="filterProduct('Topwear')">
+            Bloqueadores
+          </button>
+        
+          <button class="button-value" id="Lim" onclick="filterProduct('Bottomwear')">
+           Limpieza
+          </button>
+
+          <button class="button-value" id="Hidra" onclick="filterProduct('Jacket')">
+           Hidratantes
+          </button>
+
+          <button class="button-value" id="Seru" onclick="filterProduct('Watch')">
+           Serums
+          </button>
+      </div>
+      <div id="products"></div>
+    </div>
+
+  <script src="../Productos/assets/js/script.js"></script>
+  
+</body>
+</html>
